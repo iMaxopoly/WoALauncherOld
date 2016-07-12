@@ -1,0 +1,1 @@
+For /R %%i in (*.png) do pngc.EXE -ow -rem allb -reduce %%i

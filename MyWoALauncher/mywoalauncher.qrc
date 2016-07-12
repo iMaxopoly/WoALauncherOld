@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/base.png</file>
+        <file>Resources/close.png</file>
+        <file>Resources/facebook.png</file>
+        <file>Resources/favicon.png</file>
+        <file>Resources/minimize.png</file>
+        <file>Resources/play.png</file>
+        <file>Resources/play_disable.png</file>
+        <file>Resources/play_glow.png</file>
+        <file>Resources/twitter.png</file>
+        <file>Resources/youtube.png</file>
+    </qresource>
+</RCC>
